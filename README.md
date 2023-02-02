@@ -1,3 +1,3 @@
 # Main Header
 
-some descriotion
+some description
